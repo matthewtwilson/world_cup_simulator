@@ -1,0 +1,4952 @@
+{
+    "EFGHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "DFGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "DEGHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "DEFHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "DEFGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "DEFGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "DEFGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "DEFGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "DEFGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "CFGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CEGHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CEFHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CEFGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CEFGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CEFGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CEFGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "CEFGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "CDGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDFHIJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDFGIJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDFGHJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDFGHIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDFGHIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "CDFGHIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "CDEHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "CDEGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFIJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFHJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFHIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFHIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "CDEFHIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFGJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFGIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFGIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "CDEFGIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFGHKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFGHJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "CDEFGHJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFGHIL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "CDEFGHIK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "CDEFGHIJ": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "BFGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BEGHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd B",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BEFHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BEFGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BEFGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BEFGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BEFGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BEFGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BDGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDFHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDFGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDFGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDFGHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDFGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BDFGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BDEHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BDEGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BDEFHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BDEFGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFGHKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "BDEFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFGHIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BDEFGHIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BDEFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "BCGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCFHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCFGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCFGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCFGHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCFGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCFGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCEHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCEGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCEFHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCEFGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFGHKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "BCEFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFGHIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCEFGHIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCEFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "BCDHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDGHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFIJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFHJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFHIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFHIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDFHIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFGJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFGIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFGIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDFGIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFGHKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFGHJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd J"
+    },
+    "BCDFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFGHIL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDFGHIK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEGHKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "BCDEGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEGHIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEGHIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEFJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd E",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd E",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEFIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd E",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFHKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFHJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "BCDEFHJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFHIL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEFHIK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFHIJ": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEFGKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd E",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFGJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "BCDEFGJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFGIL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd E",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEFGIK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd E",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFGIJ": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "BCDEFGHL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "BCDEFGHK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "BCDEFGHJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd J",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd E"
+    },
+    "BCDEFGHI": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "AFGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "AEGHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "AEFHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "AEFGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "AEFGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "AEFGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "AEFGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "AEFGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ADGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADFHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADFGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADFGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADFGHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADFGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ADFGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ADEHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ADEGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ADEFHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ADEFGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFGHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ADEFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFGHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ADEFGHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ADEFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ACGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACFHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACFGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACFGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACFGHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACFGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACFGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACEHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACEGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACEFHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACEFGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFGHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ACEFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFGHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACEFGHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACEFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ACDHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDGHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFIJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd F",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDFHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFGJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFGIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFGIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDFGIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFGHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFGHJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd H"
+    },
+    "ACDFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFGHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDFGHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEGHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ACDEGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEGHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEGHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEFJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd I",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEFIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ACDEFHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEFHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEFGKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFGJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ACDEFGJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFGIL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEFGIK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFGIJ": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ACDEFGHL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd F",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ACDEFGHK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd K"
+    },
+    "ACDEFGHJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd J",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd E"
+    },
+    "ACDEFGHI": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd E",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd I"
+    },
+    "ABGHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABFHIJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABFGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABFGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABFGHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABFGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABFGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABEHIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEGIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEGHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEGHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEGHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABEGHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd H",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABEFHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABEFGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFGHKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABEFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFGHIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABEFGHIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABEFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABDHIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDGHIKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDFHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFGJKL": {
+        "Winner A plays": "3rd F",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFGIKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFGIJL": {
+        "Winner A plays": "3rd F",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDFGIJK": {
+        "Winner A plays": "3rd F",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFGHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd J"
+    },
+    "ABDFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd J",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFGHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDFGHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd J"
+    },
+    "ABDEIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDEHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDEGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEGHKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABDEGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEGHIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDEGHIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABDEFJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDEFIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABDEFHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDEFHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABDEFGKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFGJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd J"
+    },
+    "ABDEFGJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd J",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFGIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABDEFGIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFGIJ": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd J"
+    },
+    "ABDEFGHL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABDEFGHK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABDEFGHJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd J"
+    },
+    "ABDEFGHI": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABCHIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCGIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCGHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCGHIKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCGHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCGHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCFHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFGJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFGIKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFGIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCFGIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd F",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFGHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd J"
+    },
+    "ABCFGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd J",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFGHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCFGHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCFGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd J"
+    },
+    "ABCEIJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd C",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEHJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEHIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEHIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCEHIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEGJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEGIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd A",
+        "Winner G plays": "3rd I",
+        "Winner I plays": "3rd C",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEGIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCEGIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEGHKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABCEGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEGHIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCEGHIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd H",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABCEFJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCEFIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABCEFHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCEFHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABCEFGKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFGJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd J"
+    },
+    "ABCEFGJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd J",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFGIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCEFGIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFGIJ": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd J"
+    },
+    "ABCEFGHL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABCEFGHK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABCEFGHJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd J"
+    },
+    "ABCEFGHI": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDIJKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDHJKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDHIKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDHIJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDHIJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDGJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDGIKL": {
+        "Winner A plays": "3rd I",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDGIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDGIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd G",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDGHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDGHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDGHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd J",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDGHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDGHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDGHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDFJKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFIKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFIJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDFIJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd F",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFHJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd H"
+    },
+    "ABCDFHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd F",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDFHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd F",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDFGKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFGJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDFGJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd J",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFGIL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDFGIK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFGIJ": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDFGHL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd H"
+    },
+    "ABCDFGHK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDFGHJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDFGHI": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEJKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEIKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd I",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEIJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEIJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEHKL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEHJL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABCDEHJK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEHIL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEHIK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEHIJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEGKL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEGJL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDEGJK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd J",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEGIL": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEGIK": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEGIJ": {
+        "Winner A plays": "3rd E",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDEGHL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABCDEGHK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEGHJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDEGHI": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEFKL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEFJL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABCDEFJK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEFIL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEFIK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd I",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEFIJ": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEFHL": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd F",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd D",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABCDEFHK": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEFHJ": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd J",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd E"
+    },
+    "ABCDEFHI": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd E",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEFGL": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd L",
+        "Winner L plays": "3rd E"
+    },
+    "ABCDEFGK": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd K"
+    },
+    "ABCDEFGJ": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd J"
+    },
+    "ABCDEFGI": {
+        "Winner A plays": "3rd C",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd D",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd E",
+        "Winner L plays": "3rd I"
+    },
+    "ABCDEFGH": {
+        "Winner A plays": "3rd H",
+        "Winner B plays": "3rd G",
+        "Winner D plays": "3rd B",
+        "Winner E plays": "3rd C",
+        "Winner G plays": "3rd A",
+        "Winner I plays": "3rd F",
+        "Winner K plays": "3rd D",
+        "Winner L plays": "3rd E"
+    }
+}

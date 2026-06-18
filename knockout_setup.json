@@ -1,0 +1,60 @@
+{
+  "rounds": [
+    {
+      "name": "Round of 32",
+      "matches": [
+        {"id": "M73", "home": "1Group E", "away": "matrix:Winner E plays"},
+        {"id": "M74", "home": "1Group I", "away": "matrix:Winner I plays"},
+        {"id": "M75", "home": "2Group A", "away": "2Group B"},
+        {"id": "M76", "home": "1Group F", "away": "2Group C"},
+        {"id": "M77", "home": "2Group K", "away": "2Group L"},
+        {"id": "M78", "home": "1Group H", "away": "2Group J"},
+        {"id": "M79", "home": "1Group D", "away": "matrix:Winner D plays"},
+        {"id": "M80", "home": "1Group G", "away": "matrix:Winner G plays"},
+        {"id": "M81", "home": "1Group C", "away": "2Group F"},
+        {"id": "M82", "home": "2Group E", "away": "2Group I"},
+        {"id": "M83", "home": "1Group A", "away": "matrix:Winner A plays"},
+        {"id": "M84", "home": "1Group L", "away": "matrix:Winner L plays"},
+        {"id": "M85", "home": "1Group J", "away": "2Group H"},
+        {"id": "M86", "home": "2Group D", "away": "2Group G"},
+        {"id": "M87", "home": "1Group B", "away": "matrix:Winner B plays"},
+        {"id": "M88", "home": "1Group K", "away": "matrix:Winner K plays"}
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "matches": [
+        {"id": "M89", "home": "Winner M73", "away": "Winner M74"},
+        {"id": "M90", "home": "Winner M75", "away": "Winner M76"},
+        {"id": "M91", "home": "Winner M77", "away": "Winner M78"},
+        {"id": "M92", "home": "Winner M79", "away": "Winner M80"},
+        {"id": "M93", "home": "Winner M81", "away": "Winner M82"},
+        {"id": "M94", "home": "Winner M83", "away": "Winner M84"},
+        {"id": "M95", "home": "Winner M85", "away": "Winner M86"},
+        {"id": "M96", "home": "Winner M87", "away": "Winner M88"}
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {"id": "M97", "home": "Winner M89", "away": "Winner M90"},
+        {"id": "M98", "home": "Winner M91", "away": "Winner M92"},
+        {"id": "M99", "home": "Winner M93", "away": "Winner M94"},
+        {"id": "M100", "home": "Winner M95", "away": "Winner M96"}
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {"id": "M101", "home": "Winner M97", "away": "Winner M98"},
+        {"id": "M102", "home": "Winner M99", "away": "Winner M100"}
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {"id": "M104", "home": "Winner M101", "away": "Winner M102"}
+      ]
+    }
+  ]
+}
