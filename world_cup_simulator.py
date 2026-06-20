@@ -165,10 +165,69 @@ class WorldCupSimulator:
                 })
                 
         df_standings = pd.DataFrame(standings)
-        df_standings = df_standings.sort_values(
-            by=['Group', 'Pts', 'GD', 'GF', 'FP'], 
-            ascending=[True, False, False, False, False]
-        )
+
+        def sort_group_rows(group_df):
+            records = group_df.to_dict('records')
+            records.sort(key=lambda r: (-r['Pts'], r['Team']))
+
+            sorted_records = []
+            start = 0
+            while start < len(records):
+                end = start + 1
+                while end < len(records) and records[end]['Pts'] == records[start]['Pts']:
+                    end += 1
+
+                block = records[start:end]
+                if len(block) > 1:
+                    tied_teams = {r['Team'] for r in block}
+                    h2h_matches = group_matches[
+                        group_matches['HomeTeam'].isin(tied_teams) &
+                        group_matches['AwayTeam'].isin(tied_teams) &
+                        (group_matches['Status'] == 'Finished')
+                    ]
+
+                    h2h_stats = {team: {'Pts': 0, 'GF': 0, 'GA': 0} for team in tied_teams}
+                    for _, match in h2h_matches.iterrows():
+                        home, away = match['HomeTeam'], match['AwayTeam']
+                        hg, ag = match['HomeGoals'], match['AwayGoals']
+
+                        h2h_stats[home]['GF'] += hg
+                        h2h_stats[home]['GA'] += ag
+                        h2h_stats[away]['GF'] += ag
+                        h2h_stats[away]['GA'] += hg
+
+                        if hg > ag:
+                            h2h_stats[home]['Pts'] += 3
+                        elif ag > hg:
+                            h2h_stats[away]['Pts'] += 3
+                        else:
+                            h2h_stats[home]['Pts'] += 1
+                            h2h_stats[away]['Pts'] += 1
+
+                    for row in block:
+                        stats = h2h_stats[row['Team']]
+                        row['_h2hPts'] = stats['Pts']
+                        row['_h2hGD'] = stats['GF'] - stats['GA']
+                        row['_h2hGF'] = stats['GF']
+
+                    block.sort(
+                        key=lambda r: (
+                            -r['_h2hPts'],
+                            -r['_h2hGD'],
+                            -r['_h2hGF'],
+                            -r['GD'],
+                            -r['GF'],
+                            -r['FP'],
+                            r['Team']
+                        )
+                    )
+                sorted_records.extend(block)
+                start = end
+
+            return pd.DataFrame(sorted_records)
+
+        sorted_groups = [sort_group_rows(group_df) for _, group_df in df_standings.groupby('Group', sort=False)]
+        df_standings = pd.concat(sorted_groups, ignore_index=True)
         df_standings['Rank'] = df_standings.groupby('Group').cumcount() + 1
         return df_standings
 
@@ -176,8 +235,8 @@ class WorldCupSimulator:
         top_two = df_standings[df_standings['Rank'] <= 2]
         third_places = df_standings[df_standings['Rank'] == 3].copy()
         third_places = third_places.sort_values(
-            by=['Pts', 'GD', 'GF', 'FP'], 
-            ascending=[False, False, False, False]
+            by=['Pts', 'GD', 'GF', 'Team'], 
+            ascending=[False, False, False, True]
         ).head(8)
         return top_two, third_places
 
