@@ -91,6 +91,18 @@ class WorldCupSimulator:
         print(f"Matches with a decision (win/loss): {num_decisions}")
         print(f"Average goals scored per match: {avg_goals_per_match:.2f}")
         print("----------------------------\n")
+        
+        # Print current group standings
+        standings = self.calculate_group_standings()
+        print("--- Current Group Standings ---")
+        for group in sorted(standings['Group'].unique()):
+            group_standings = standings[standings['Group'] == group]
+            print(f"\n{group}:")
+            print(f"{'Rank':<6} {'Team':<32} {'Pts':<5} {'GD':<5} {'GF':<5} {'FP':<5}")
+            print("-" * 60)
+            for _, row in group_standings.iterrows():
+                print(f"{int(row['Rank']):<6} {row['Team']:<32} {int(row['Pts']):<5} {int(row['GD']):<5} {int(row['GF']):<5} {int(row['FP']):<5}")
+        print("-------------------------------\n")
 
 
     def reset_schedule(self):
