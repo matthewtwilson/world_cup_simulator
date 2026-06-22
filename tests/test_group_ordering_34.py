@@ -23,7 +23,7 @@ def test_group_ordering_34():
             'Group E': ['Germany', 'Ivory Coast', 'Ecuador', 'Curacao'],
             'Group F': ['Netherlands', 'Sweden', 'Japan', 'Tunisia'],
             'Group G': ['New Zealand', 'Iran', 'Belgium', 'Egypt'],
-            'Group H': ['Uruguay', 'Saudi Arabia', 'Cape Verde', 'Spain'],
+            'Group H': ['Uruguay', 'Saudi Arabia', 'Cape Verde', 'Spain'], #Spain should be 3rd here, based on Fifa Ranking, which is not in the simulator yet
             'Group I': ['Norway', 'France', 'Senegal', 'Iraq'],
             'Group J': ['Argentina', 'Austria', 'Jordan', 'Algeria'],
             'Group K': ['Colombia', 'Democratic Republic of the Congo', 'Portugal', 'Uzbekistan'],
