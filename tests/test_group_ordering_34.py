@@ -7,7 +7,7 @@ from world_cup_simulator import WorldCupSimulator
 
 def test_group_ordering_34():
     repo_root = pathlib.Path(__file__).resolve().parents[1]
-    fixture = repo_root / 'tests' / 'fixtures' / 'schedule_snapshot.csv'
+    fixture = repo_root / 'tests' / 'fixtures' / 'schedule_34.csv'
     with tempfile.TemporaryDirectory() as d:
         sched_dst = pathlib.Path(d) / 'schedule_2026.csv'
         shutil.copy2(fixture, sched_dst)
