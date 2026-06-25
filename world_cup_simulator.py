@@ -240,6 +240,30 @@ class WorldCupSimulator:
         ).head(8)
         return top_two, third_places
 
+    def get_finished_knockout_result(self, home_team, away_team, stage):
+        finished = self.schedule[
+            (self.schedule['Stage'] == stage) &
+            (self.schedule['Status'] == 'Finished')
+        ]
+
+        match = finished[
+            (finished['HomeTeam'] == home_team) &
+            (finished['AwayTeam'] == away_team)
+        ]
+        if len(match) == 1:
+            row = match.iloc[0]
+            return int(row['HomeGoals']), int(row['AwayGoals'])
+
+        match = finished[
+            (finished['HomeTeam'] == away_team) &
+            (finished['AwayTeam'] == home_team)
+        ]
+        if len(match) == 1:
+            row = match.iloc[0]
+            return int(row['AwayGoals']), int(row['HomeGoals'])
+
+        return None
+
     def run_full_simulation(self, n_simulations=100000, method='fixed'):
         progress_step = max(1, n_simulations // 100)
         start_time = time.perf_counter()
@@ -302,7 +326,12 @@ class WorldCupSimulator:
                             self.team_results[home_team]['r32'] += 1
                             self.team_results[away_team]['r32'] += 1
 
-                        h_goals, a_goals = self.simulate_match(home_team, away_team, method)
+                        finished_result = self.get_finished_knockout_result(home_team, away_team, round_info['name'])
+                        if finished_result is not None:
+                            h_goals, a_goals = finished_result
+                        else:
+                            h_goals, a_goals = self.simulate_match(home_team, away_team, method)
+
                         if h_goals > a_goals: winner = home_team
                         elif a_goals > h_goals: winner = away_team
                         else: winner = random.choice([home_team, away_team])
