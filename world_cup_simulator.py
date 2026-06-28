@@ -98,10 +98,10 @@ class WorldCupSimulator:
         for group in sorted(standings['Group'].unique()):
             group_standings = standings[standings['Group'] == group]
             print(f"\n{group}:")
-            print(f"{'Rank':<6} {'Team':<32} {'Pts':<5} {'GD':<5} {'GF':<5} {'FP':<5}")
+            print(f"{'Rank':<6} {'Team':<32} {'Pts':<5} {'GD':<5} {'GF':<5} {'GA':<5} {'FP':<5}")
             print("-" * 60)
             for _, row in group_standings.iterrows():
-                print(f"{int(row['Rank']):<6} {row['Team']:<32} {int(row['Pts']):<5} {int(row['GD']):<5} {int(row['GF']):<5} {int(row['FP']):<5}")
+                print(f"{int(row['Rank']):<6} {row['Team']:<32} {int(row['Pts']):<5} {int(row['GD']):<5} {int(row['GF']):<5} {int(row['GA']):<5} {int(row['FP']):<5}")
         print("-------------------------------\n")
 
 
@@ -161,7 +161,7 @@ class WorldCupSimulator:
                 
                 standings.append({
                     'Group': group, 'Team': team, 'Pts': points, 
-                    'GD': gd, 'GF': gf, 'FP': fp
+                    'GD': gd, 'GF': gf, 'GA': ga, 'FP': fp
                 })
                 
         df_standings = pd.DataFrame(standings)
