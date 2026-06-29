@@ -355,9 +355,31 @@ class WorldCupSimulator:
     def print_stats(self, n_sims):
         print(f"{'Team':<32} | {'1st %':<8} | {'2nd %':<8} | {'3rd %':<8} | {'4th %':<8} | {'R32 %':<8} | {'R16 %':<8} | {'R8 %':<8} | {'R4 %':<8} | {'R2 %':<8} | {'Win %':<8}")
         print("-" * 150)
-        for team, stats in sorted(self.team_results.items(), key=lambda x: x[1]['winner'], reverse=True):
-            def p(val): return f"{val/n_sims*100:>7.2f}%"
-            print(f"{team:<32} | {p(stats['pos1'])} | {p(stats['pos2'])} | {p(stats['pos3'])} | {p(stats['pos4'])} | {p(stats['r32'])} | {p(stats['r16'])} | {p(stats['r8'])} | {p(stats['r4'])} | {p(stats['r2'])} | {p(stats['winner'])}")
+
+        def p(val):
+            return val / n_sims * 100
+
+        ranked_teams = sorted(
+            self.team_results.items(),
+            key=lambda item: (
+                -p(item[1]['winner']),
+                -p(item[1]['r2']),
+                -p(item[1]['r4']),
+                -p(item[1]['r8']),
+                -p(item[1]['r16']),
+                -p(item[1]['r32']),
+                -p(item[1]['pos1']),
+                -p(item[1]['pos2']),
+                -p(item[1]['pos3']),
+                -p(item[1]['pos4']),
+                item[0],
+            ),
+        )
+
+        for team, stats in ranked_teams:
+            print(
+                f"{team:<32} | {p(stats['pos1']):>7.2f}% | {p(stats['pos2']):>7.2f}% | {p(stats['pos3']):>7.2f}% | {p(stats['pos4']):>7.2f}% | {p(stats['r32']):>7.2f}% | {p(stats['r16']):>7.2f}% | {p(stats['r8']):>7.2f}% | {p(stats['r4']):>7.2f}% | {p(stats['r2']):>7.2f}% | {p(stats['winner']):>7.2f}%"
+            )
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
