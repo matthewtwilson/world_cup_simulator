@@ -108,24 +108,36 @@ class WorldCupSimulator:
     def reset_schedule(self):
         self.schedule = self.schedule_orig.copy()
 
-    def simulate_match(self, home, away, method='poisson'):
+    def simulate_match(self, home, away, method='poisson', knockout=False):
         if method == 'poisson':
             h_gf = self.team_stats.get(home, {}).get('gf_mean', self.tournament_avg)
             h_ga = self.team_stats.get(home, {}).get('ga_mean', self.tournament_avg)
             a_gf = self.team_stats.get(away, {}).get('gf_mean', self.tournament_avg)
             a_ga = self.team_stats.get(away, {}).get('ga_mean', self.tournament_avg)
-            
+
             lambda_home = (h_gf * a_ga) / self.tournament_avg
             lambda_away = (a_gf * h_ga) / self.tournament_avg
-            
+
             h_goals = np.random.poisson(lambda_home)
             a_goals = np.random.poisson(lambda_away)
+
+            if knockout and h_goals == a_goals:
+                extra_time_home_lambda = lambda_home / 3
+                extra_time_away_lambda = lambda_away / 3
+                h_goals = np.random.poisson(extra_time_home_lambda)
+                a_goals = np.random.poisson(extra_time_away_lambda)
+
+                if h_goals == a_goals:
+                    winner = random.choice([home, away])
+                    if winner == home:
+                        return 1, 0
+                    return 0, 1
         else:
             rand = random.random()
             if rand < 0.40: h_goals, a_goals = 1, 0
             elif rand < 0.60: h_goals, a_goals = 1, 1
             else: h_goals, a_goals = 0, 1
-        
+
         return h_goals, a_goals
 
     def simulate_unfinished_games(self, method='poisson'):
@@ -330,7 +342,7 @@ class WorldCupSimulator:
                         if finished_result is not None:
                             h_goals, a_goals = finished_result
                         else:
-                            h_goals, a_goals = self.simulate_match(home_team, away_team, method)
+                            h_goals, a_goals = self.simulate_match(home_team, away_team, method, knockout=True)
 
                         if h_goals > a_goals: winner = home_team
                         elif a_goals > h_goals: winner = away_team
