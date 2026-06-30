@@ -276,6 +276,56 @@ class WorldCupSimulator:
 
         return None
 
+    def resolve_knockout_winner(self, home_team, away_team, stage):
+        finished = self.schedule[
+            (self.schedule['Stage'] == stage) &
+            (self.schedule['Status'] == 'Finished')
+        ]
+
+        def get_penalty_winner(row):
+            for col in ['PenaltyWinner', 'WinnerOnPenalties', 'Penalty Winner']:
+                if col in row.index and pd.notna(row[col]) and str(row[col]).strip():
+                    return str(row[col]).strip()
+            return None
+
+        match = finished[
+            (finished['HomeTeam'] == home_team) &
+            (finished['AwayTeam'] == away_team)
+        ]
+        if len(match) == 1:
+            row = match.iloc[0]
+            home_goals = int(row['HomeGoals'])
+            away_goals = int(row['AwayGoals'])
+            if stage != 'Group' and home_goals == away_goals:
+                penalty_winner = get_penalty_winner(row)
+                if penalty_winner:
+                    return penalty_winner
+            if home_goals > away_goals:
+                return home_team
+            if away_goals > home_goals:
+                return away_team
+            return random.choice([home_team, away_team])
+
+        match = finished[
+            (finished['HomeTeam'] == away_team) &
+            (finished['AwayTeam'] == home_team)
+        ]
+        if len(match) == 1:
+            row = match.iloc[0]
+            away_goals = int(row['AwayGoals'])
+            home_goals = int(row['HomeGoals'])
+            if stage != 'Group' and home_goals == away_goals:
+                penalty_winner = get_penalty_winner(row)
+                if penalty_winner:
+                    return penalty_winner
+            if home_goals > away_goals:
+                return home_team
+            if away_goals > home_goals:
+                return away_team
+            return random.choice([home_team, away_team])
+
+        return None
+
     def run_full_simulation(self, n_simulations=100000, method='fixed'):
         progress_step = max(1, n_simulations // 100)
         start_time = time.perf_counter()
@@ -341,12 +391,18 @@ class WorldCupSimulator:
                         finished_result = self.get_finished_knockout_result(home_team, away_team, round_info['name'])
                         if finished_result is not None:
                             h_goals, a_goals = finished_result
+                            if h_goals == a_goals:
+                                winner = self.resolve_knockout_winner(home_team, away_team, round_info['name'])
+                            elif h_goals > a_goals:
+                                winner = home_team
+                            else:
+                                winner = away_team
                         else:
                             h_goals, a_goals = self.simulate_match(home_team, away_team, method, knockout=True)
 
-                        if h_goals > a_goals: winner = home_team
-                        elif a_goals > h_goals: winner = away_team
-                        else: winner = random.choice([home_team, away_team])
+                            if h_goals > a_goals: winner = home_team
+                            elif a_goals > h_goals: winner = away_team
+                            else: winner = random.choice([home_team, away_team])
                         
                         match_winners[match['id']] = winner
                         
