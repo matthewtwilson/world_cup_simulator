@@ -99,7 +99,7 @@ class WorldCupSimulator:
             group_standings = standings[standings['Group'] == group]
             print(f"\n{group}:")
             print(f"{'Rank':<6} {'Team':<32} {'Pts':<5} {'GD':<5} {'GF':<5} {'GA':<5} {'FP':<5}")
-            print("-" * 60)
+            print("-" * 66)
             for _, row in group_standings.iterrows():
                 print(f"{int(row['Rank']):<6} {row['Team']:<32} {int(row['Pts']):<5} {int(row['GD']):<5} {int(row['GF']):<5} {int(row['GA']):<5} {int(row['FP']):<5}")
         print("-------------------------------\n")
@@ -365,8 +365,8 @@ class WorldCupSimulator:
         sys.stderr.flush()
 
     def print_stats(self, n_sims):
-        print(f"{'Team':<32} | {'1st %':<8} | {'2nd %':<8} | {'3rd %':<8} | {'4th %':<8} | {'R32 %':<8} | {'R16 %':<8} | {'R8 %':<8} | {'R4 %':<8} | {'R2 %':<8} | {'Win %':<8}")
-        print("-" * 150)
+        print(f"{'Team':<32} | {'GF Mean':<8} | {'GA Mean':<8} | {'1st %':<8} | {'2nd %':<8} | {'3rd %':<8} | {'4th %':<8} | {'R32 %':<8} | {'R16 %':<8} | {'R8 %':<8} | {'R4 %':<8} | {'R2 %':<8} | {'Win %':<8}")
+        print("-" * 190)
 
         def p(val):
             return val / n_sims * 100
@@ -389,8 +389,11 @@ class WorldCupSimulator:
         )
 
         for team, stats in ranked_teams:
+            team_stats = self.team_stats.get(team, {})
+            gf_mean = team_stats.get('gf_mean', self.tournament_avg)
+            ga_mean = team_stats.get('ga_mean', self.tournament_avg)
             print(
-                f"{team:<32} | {p(stats['pos1']):>7.2f}% | {p(stats['pos2']):>7.2f}% | {p(stats['pos3']):>7.2f}% | {p(stats['pos4']):>7.2f}% | {p(stats['r32']):>7.2f}% | {p(stats['r16']):>7.2f}% | {p(stats['r8']):>7.2f}% | {p(stats['r4']):>7.2f}% | {p(stats['r2']):>7.2f}% | {p(stats['winner']):>7.2f}%"
+                f"{team:<32} | {gf_mean:>7.2f} | {ga_mean:>7.2f} | {p(stats['pos1']):>7.2f}% | {p(stats['pos2']):>7.2f}% | {p(stats['pos3']):>7.2f}% | {p(stats['pos4']):>7.2f}% | {p(stats['r32']):>7.2f}% | {p(stats['r16']):>7.2f}% | {p(stats['r8']):>7.2f}% | {p(stats['r4']):>7.2f}% | {p(stats['r2']):>7.2f}% | {p(stats['winner']):>7.2f}%"
             )
 
 if __name__ == "__main__":
