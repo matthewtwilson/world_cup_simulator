@@ -108,7 +108,15 @@ class WorldCupSimulator:
     def reset_schedule(self):
         self.schedule = self.schedule_orig.copy()
 
-    def simulate_match(self, home, away, method='poisson', knockout=False):
+    @staticmethod
+    def _classify_result(home_goals, away_goals):
+        if home_goals > away_goals:
+            return 'home_win'
+        if away_goals > home_goals:
+            return 'away_win'
+        return 'draw'
+
+    def _simulate_match_details(self, home, away, method='poisson', knockout=False):
         if method == 'poisson':
             h_gf = self.team_stats.get(home, {}).get('gf_mean', self.tournament_avg)
             h_ga = self.team_stats.get(home, {}).get('ga_mean', self.tournament_avg)
@@ -121,24 +129,116 @@ class WorldCupSimulator:
             h_goals = np.random.poisson(lambda_home)
             a_goals = np.random.poisson(lambda_away)
 
-            if knockout and h_goals == a_goals:
-                extra_time_home_lambda = lambda_home / 3
-                extra_time_away_lambda = lambda_away / 3
-                h_goals = np.random.poisson(extra_time_home_lambda)
-                a_goals = np.random.poisson(extra_time_away_lambda)
+            ninety_minutes = {
+                'home_goals': h_goals,
+                'away_goals': a_goals,
+                'result': self._classify_result(h_goals, a_goals),
+            }
 
-                if h_goals == a_goals:
-                    winner = random.choice([home, away])
-                    if winner == home:
-                        return 1, 0
-                    return 0, 1
+            if not knockout or h_goals != a_goals:
+                return {
+                    'home_goals': h_goals,
+                    'away_goals': a_goals,
+                    'ninety_minutes': ninety_minutes,
+                    'extra_time': {
+                        'home_goals': h_goals,
+                        'away_goals': a_goals,
+                        'result': ninety_minutes['result'],
+                    },
+                    'penalties': None,
+                }
+
+            extra_time_home_lambda = lambda_home / 3
+            extra_time_away_lambda = lambda_away / 3
+            extra_home_goals = np.random.poisson(extra_time_home_lambda)
+            extra_away_goals = np.random.poisson(extra_time_away_lambda)
+
+            extra_time = {
+                'home_goals': extra_home_goals,
+                'away_goals': extra_away_goals,
+                'result': self._classify_result(extra_home_goals, extra_away_goals),
+            }
+
+            if extra_home_goals == extra_away_goals:
+                winner = random.choice([home, away])
+                penalty_winner = home if winner == home else away
+                penalty_result = 'home_win' if penalty_winner == home else 'away_win'
+                return {
+                    'home_goals': 1 if penalty_winner == home else 0,
+                    'away_goals': 1 if penalty_winner == away else 0,
+                    'ninety_minutes': ninety_minutes,
+                    'extra_time': extra_time,
+                    'penalties': {
+                        'winner': penalty_winner,
+                        'result': penalty_result,
+                    },
+                }
+
+            return {
+                'home_goals': extra_home_goals,
+                'away_goals': extra_away_goals,
+                'ninety_minutes': ninety_minutes,
+                'extra_time': extra_time,
+                'penalties': None,
+            }
         else:
             rand = random.random()
-            if rand < 0.40: h_goals, a_goals = 1, 0
-            elif rand < 0.60: h_goals, a_goals = 1, 1
-            else: h_goals, a_goals = 0, 1
+            if rand < 0.40:
+                h_goals, a_goals = 1, 0
+            elif rand < 0.60:
+                h_goals, a_goals = 1, 1
+            else:
+                h_goals, a_goals = 0, 1
 
-        return h_goals, a_goals
+            ninety_minutes = {
+                'home_goals': h_goals,
+                'away_goals': a_goals,
+                'result': self._classify_result(h_goals, a_goals),
+            }
+            return {
+                'home_goals': h_goals,
+                'away_goals': a_goals,
+                'ninety_minutes': ninety_minutes,
+                'extra_time': {
+                    'home_goals': h_goals,
+                    'away_goals': a_goals,
+                    'result': ninety_minutes['result'],
+                },
+                'penalties': None,
+            }
+
+    def simulate_match(self, home, away, method='poisson', knockout=False):
+        details = self._simulate_match_details(home, away, method=method, knockout=knockout)
+        return details['home_goals'], details['away_goals']
+
+    def summarize_match_outcomes(self, home, away, n_runs=1000, method='poisson', knockout=False):
+        home_stats = self.team_stats.get(home, {})
+        away_stats = self.team_stats.get(away, {})
+
+        summary = {
+            'home_team': {
+                'name': home,
+                'gf_average': home_stats.get('gf_mean', self.tournament_avg),
+                'ga_average': home_stats.get('ga_mean', self.tournament_avg),
+            },
+            'away_team': {
+                'name': away,
+                'gf_average': away_stats.get('gf_mean', self.tournament_avg),
+                'ga_average': away_stats.get('ga_mean', self.tournament_avg),
+            },
+            'ninety_minutes': {'home_win': 0, 'draw': 0, 'away_win': 0},
+            'extra_time': {'home_win': 0, 'draw': 0, 'away_win': 0},
+            'penalties': {'home_win': 0, 'away_win': 0},
+        }
+
+        for _ in range(n_runs):
+            details = self._simulate_match_details(home, away, method=method, knockout=knockout)
+            summary['ninety_minutes'][details['ninety_minutes']['result']] += 1
+            summary['extra_time'][details['extra_time']['result']] += 1
+            if details['penalties'] is not None:
+                summary['penalties'][details['penalties']['result']] += 1
+
+        return summary
 
     def simulate_unfinished_games(self, method='poisson'):
         unfinished_mask = self.schedule['Status'] == 'Unfinished'
