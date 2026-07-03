@@ -8,7 +8,7 @@ import time
 from collections import Counter, defaultdict
 
 class WorldCupSimulator:
-    def __init__(self, schedule_file, groups_file, matrix_file, knockout_file):
+    def __init__(self, schedule_file, groups_file, matrix_file, knockout_file, elo_file='elo_ratings.json'):
         # Load Data
         self.schedule_orig = pd.read_csv(schedule_file)
         self.schedule = self.schedule_orig.copy()
@@ -22,6 +22,15 @@ class WorldCupSimulator:
 
         with open(knockout_file, 'r') as f:
             self.knockout_setup = json.load(f)
+        
+        # Load Elo ratings if available
+        self.elo_ratings = {}
+        try:
+            with open(elo_file, 'r') as f:
+                data = json.load(f)
+                self.elo_ratings = data.get('elo_ratings', {})
+        except FileNotFoundError:
+            pass
             
         # Calculate Team Stats from finished games in schedule
         self.team_stats = self._calculate_historical_stats()
@@ -117,7 +126,57 @@ class WorldCupSimulator:
         return 'draw'
 
     def _simulate_match_details(self, home, away, method='poisson', knockout=False):
-        if method == 'poisson':
+        if method == 'elo':
+            tie_pct = 0.2
+            home_elo = self.elo_ratings.get(home, 1600)
+            away_elo = self.elo_ratings.get(away, 1600)
+            
+            # Calculate win probability using Elo formula
+            home_win_prob = 1.0 / (1.0 + 10.0 ** ((away_elo - home_elo) / 400.0))
+            
+            rand = random.random()
+            if rand < tie_pct:
+                h_goals, a_goals = 1, 1
+            else:
+                rand = random.random()
+                if rand < home_win_prob:
+                    h_goals, a_goals = 1, 0
+                else:
+                    h_goals, a_goals = 0, 1
+            
+            ninety_minutes = {
+                'home_goals': h_goals,
+                'away_goals': a_goals,
+                'result': self._classify_result(h_goals, a_goals),
+            }
+            
+            if not knockout or h_goals != a_goals:
+                return {
+                    'home_goals': h_goals,
+                    'away_goals': a_goals,
+                    'ninety_minutes': ninety_minutes,
+                    'extra_time': {
+                        'home_goals': h_goals,
+                        'away_goals': a_goals,
+                        'result': self._classify_result(h_goals, a_goals),
+                    },
+                    'penalties': None,
+                }
+            
+            # Extra time: 50/50 penalty shootout
+            penalty_winner = home if random.random() < 0.5 else away
+            penalty_result = 'home_win' if penalty_winner == home else 'away_win'
+            return {
+                'home_goals': 1 if penalty_winner == home else 0,
+                'away_goals': 1 if penalty_winner == away else 0,
+                'ninety_minutes': ninety_minutes,
+                'extra_time': ninety_minutes,
+                'penalties': {
+                    'winner': penalty_winner,
+                    'result': penalty_result,
+                },
+            }
+        elif method == 'poisson':
             h_gf = self.team_stats.get(home, {}).get('gf_mean', self.tournament_avg)
             h_ga = self.team_stats.get(home, {}).get('ga_mean', self.tournament_avg)
             a_gf = self.team_stats.get(away, {}).get('gf_mean', self.tournament_avg)
@@ -434,7 +493,10 @@ class WorldCupSimulator:
             if i % progress_step == 0:
                 elapsed = time.perf_counter() - start_time
                 progress = (i / n_simulations) * 100
-                sys.stderr.write(f"\rProgress: {progress:.0f}% ({i}/{n_simulations}) | Elapsed: {elapsed:.3f}s")
+                if( i == 0):
+                    sys.stderr.write(f"\rProgress: {progress:.0f}% ({i}/{n_simulations}) | Elapsed: {elapsed:.3f}s")
+                else:
+                    sys.stderr.write(f"\rProgress: {progress:.0f}% ({i}/{n_simulations}) | Elapsed: {elapsed:.3f}s | {elapsed*1000.0/i:.0f}ms each")
                 sys.stderr.flush()
 
             self.reset_schedule()
@@ -555,7 +617,7 @@ class WorldCupSimulator:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--sims", type=int, default=100000)
-    parser.add_argument("--method", type=str, default='fixed', choices=['fixed', 'poisson'])
+    parser.add_argument("--method", type=str, default='fixed', choices=['fixed', 'poisson', 'elo'])
     args = parser.parse_args()
 
     sim = WorldCupSimulator('schedule_2026.csv', 'groups.json', 'third_place_matrix.json', 'knockout_setup.json')
