@@ -100,7 +100,7 @@ def test_elo_knockout_match_outcomes(tmp_path):
     summary = sim.summarize_match_outcomes(
         'Germany',
         'Paraguay',
-        runs=1000,
+        n_runs=runs,
         method='elo',
         knockout=True,
     )
@@ -109,10 +109,10 @@ def test_elo_knockout_match_outcomes(tmp_path):
     assert summary['ninety_minutes']['home_win'] > 0
     assert summary['ninety_minutes']['draw'] > 0, "Some matches should go to extra time/penalties"
     assert summary['ninety_minutes']['away_win'] > 0
-    assert sum(summary['ninety_minutes'].values()) == 1000
+    assert sum(summary['ninety_minutes'].values()) == runs
     
-    # Extra time outcomes should sum to 1000 (only draws from 90 mins go to extra time)
-    assert sum(summary['extra_time'].values()) == 1000
+    # Extra time outcomes should sum to runs (only draws from 90 mins go to extra time)
+    assert sum(summary['extra_time'].values()) == runs
     
     # Penalties should only be for matches that were draws after 90 minutes
     assert summary['penalties']['home_win'] > 0
