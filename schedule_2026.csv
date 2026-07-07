@@ -89,14 +89,14 @@ MatchID,Stage,Group,Date,HomeTeam,AwayTeam,HomeGoals,AwayGoals,HomeFairPlay,Away
 88,Round of 32,,2026-07-03,Colombia,Ghana,1,0,-2,-3,Finished
 89,Round of 16,,2026-07-04,Paraguay,France,0,1,0,-3,Finished
 90,Round of 16,,2026-07-04,Canada,Morocco,0,3,-4,-4,Finished
-91,Round of 16,,2026-07-06,Portugal,Spain,,,,,Unfinished
-92,Round of 16,,2026-07-06,United States,Belgium,,,,,Unfinished
+91,Round of 16,,2026-07-06,Portugal,Spain,0,1,-2,-1,Finished
+92,Round of 16,,2026-07-06,United States,Belgium,1,4,-2,0,Finished
 93,Round of 16,,2026-07-05,Brazil,Norway,1,2,-1,0,Finished
 94,Round of 16,,2026-07-05,Mexico,England,2,3,-2,-8,Finished
 95,Round of 16,,2026-07-07,Argentina,Egypt,,,,,Unfinished
 96,Round of 16,,2026-07-07,Switzerland,Colombia,,,,,Unfinished
 97,Quarter-finals,,2026-07-09,France,Morocco,,,,,Unfinished
-98,Quarter-finals,,2026-07-10,TBD,TBD,,,,,Unfinished
+98,Quarter-finals,,2026-07-10,Spain,Belgium,,,,,Unfinished
 99,Quarter-finals,,2026-07-11,Norway,England,,,,,Unfinished
 100,Quarter-finals,,2026-07-11,TBD,TBD,,,,,Unfinished
 101,Semi-finals,,2026-07-14,TBD,TBD,,,,,Unfinished
