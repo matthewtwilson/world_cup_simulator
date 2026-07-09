@@ -579,7 +579,7 @@ class WorldCupSimulator:
                             self.team_results[winner][next_round_key] += 1
                             
         total_time = time.perf_counter() - start_time
-        sys.stderr.write(f"\rProgress: 100% complete. Total time: {total_time:.3f}s            \n")
+        sys.stderr.write(f"\rProgress: 100% complete. Total time: {total_time:.3f}s | {elapsed*1000.0/i:.0f}ms each\n")
         sys.stderr.flush()
 
     def print_stats(self, n_sims):
